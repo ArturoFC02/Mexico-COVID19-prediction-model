@@ -1,1 +1,1 @@
-# Mexico-COVID19-prediction-model
+# Mexico-COVID19-predictive-model
